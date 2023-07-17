@@ -3,7 +3,9 @@ A simple calendar app for scheduling your work day. It goes from 7am to 8pm. It 
 
 ## Features
 The page changes depending what time of the day it is.
+
 Save tasks in each hour row and keep it when u refresh the page.
+
 Time-blocks are color-coded based on whether they are in the past, present, or future, providing a visual cue to help you manage your schedule effectively.
 
 
